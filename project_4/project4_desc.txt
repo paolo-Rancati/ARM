@@ -1,0 +1,1 @@
+This project enables interrupts for both UART0 and the timer.  The program displays a moving '*' character, which can move right or left depending on the user input.
