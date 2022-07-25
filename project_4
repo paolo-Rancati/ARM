@@ -1,1 +1,0 @@
-This project now enables to procesor to allow interrupts for both UART0 and the Timer.  The interrupts are used to display a moving '*' to the user.
